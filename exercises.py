@@ -151,7 +151,7 @@ def exercise9():
 
 if __name__ == '__main__':
     print("Exercises: ")
-    print("1. What year will be 100?")
+    print("1. What year will I be 100?")
     print("2a. Odd or even, or a multiple of 4?")
     print("2b. Zero remainder?")
     print("3. Lists part 1")
